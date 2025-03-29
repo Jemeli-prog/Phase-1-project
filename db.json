@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Bananas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bananas.jpg/1280px-Bananas.jpg",
+      "price": 300,
+      "description": ""
+    },
+    {
+      "id": "2",
+      "name": "Avocado",
+      "image": "https://thumbs.dreamstime.com/b/avocado-green-27157702.jpg",
+      "price": 30,
+      "description": ""
+    },
+    {
+      "id": "3",
+      "name": "Beans",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bIj0reoIcCSHOhyKYqwO_9MlcX5VuGUZuw&s",
+      "price": 100,
+      "description": ""
+    },
+    {
+      "id": "4",
+      "name": "Maize",
+      "image": "https://t4.ftcdn.net/jpg/04/20/45/65/360_F_420456561_nnqiDUYF07WZqD5NvxMArEfQeDhuhD9K.jpg",
+      "price": 30,
+      "description": ""
+    },
+    {
+      "id": "5",
+      "name": "Rice",
+      "image": "https://plus.unsplash.com/premium_photo-1674654419403-1a80edb26881?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cmljZXxlbnwwfHwwfHx8MA%3D%3D",
+      "price": 30,
+      "description": ""
+    },
+    {
+      "id": "6",
+      "name": "Eggs",
+      "image": "https://cdn.create.vista.com/api/media/small/3086930/stock-photo-pyramid-of-brown-eggs-isolated",
+      "price": 30,
+      "description": ""
+    }
+   
+  ]
+}
